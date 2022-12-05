@@ -1,0 +1,15 @@
+body{
+  background-color: #D6E4E5;
+  /* color: white; */
+}
+
+hr {
+
+  margin-left: 10px;
+  height: 2px;
+  width: 50%;
+  border: none;
+  border-bottom: 5px dotted #0D4C92;
+  border-width: 5px;
+
+}
